@@ -1,0 +1,2 @@
+# Network-application---TCP-socket
+Transmission Control Protocol (TCP) – It is one of the popular communication protocols which is used for communication between networks. TCP helps in communication by dividing data into series of packets. These packets are sent from source to destination. TCP socket is a software structure which is a one endpoint of two-way communication link between two programs running on the network.
